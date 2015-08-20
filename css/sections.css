@@ -1,3 +1,14 @@
 .container.header-container {
   padding-top: 150px;
 }
+#portfolio .container .row .portfolio-item .portfolio-link {
+  width: 250px;
+}
+#portfolio .container .row .portfolio-item .portfolio-link .img-responsive {
+  height: 250px;
+  width: 250px;
+}
+#portfolio .container .row .portfolio-item h4 {
+  width: 250px;
+  text-align: center;
+}
