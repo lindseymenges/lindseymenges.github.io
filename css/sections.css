@@ -1,3 +1,4 @@
+
 .container.header-container {
   padding: 60px 0;
 }
@@ -49,4 +50,17 @@
 }
 #portfolio .container .row .portfolio-item h6 {
   text-align: center;
+}
+
+@media(max-width: 770px) {
+  #portfolio .container .row .portfolio-item {
+      width: 100%;
+      margin: auto;
+    }
+}
+
+@media(max-width: 1199px) {
+  #portfolio .container .row .portfolio-item {
+      width: 50%;
+    }
 }
