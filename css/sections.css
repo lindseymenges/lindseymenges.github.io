@@ -1,0 +1,52 @@
+.container.header-container {
+  padding: 60px 0;
+}
+
+.intro-text .profile-img {
+  max-height: 400px;
+}
+
+#about {
+  background: #fff;
+  color: #18bc9c;
+}
+#about .star-light {
+  border-color: #18bc9c;
+}
+#about .star-light:after {
+  color: #18bc9c;
+  background: #fff;
+}
+#about a {
+  color: #18bc9c;
+}
+
+#portfolio {
+  background: #18bc9c;
+  color: #fff;
+}
+#portfolio .star-primary {
+  border-color: #fff;
+}
+#portfolio .star-primary:after {
+  color: #fff;
+  background-color: #18bc9c;
+}
+#portfolio .container .row .portfolio-item {
+  width: 25%;
+}
+#portfolio .container .row .portfolio-item .portfolio-link {
+  width: 250px;
+}
+#portfolio .container .row .portfolio-item .portfolio-link .img-responsive {
+  height: 250px;
+  width: 250px;
+}
+#portfolio .container .row .portfolio-item h4 {
+  width: 250px;
+  text-align: center;
+  margin: 15px auto;
+}
+#portfolio .container .row .portfolio-item h6 {
+  text-align: center;
+}
