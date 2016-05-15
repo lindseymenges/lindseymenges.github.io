@@ -11,9 +11,13 @@
             <div class="row">
                 {% for post in site.posts %}
                     <div class="col-sm-4 portfolio-item">
-                        <a href="{{ post.link }}" class="portfolio-link" target="_blank">
-                            <img src="img/portfolio/{{ post.img }}" class="img-responsive" alt="{{ post.title }}">
-                        </a>
+                        {% if post.disabled %}
+                            <img src="img/portfolio/{{post.img}}" class="img-responsive portfolio-disabled" alt="{{ post.title }}">
+                        {% else %}
+                            <a href="{{ post.link }}" class="portfolio-link" target="_blank">
+                                <img src="img/portfolio/{{ post.img }}" class="img-responsive" alt="{{ post.title }}">
+                            </a>
+                        {% endif %}
                         <h4>{{ post.title }}</h4>
                         <h6>{{ post.description }}</h3>
                     </div>

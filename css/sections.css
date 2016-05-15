@@ -43,6 +43,9 @@
   height: 250px;
   width: 250px;
 }
+#portfolio .container .row .portfolio-item .img-responsive.portfolio-disabled {
+  opacity: 0.5;
+}
 #portfolio .container .row .portfolio-item h4 {
   width: 250px;
   text-align: center;

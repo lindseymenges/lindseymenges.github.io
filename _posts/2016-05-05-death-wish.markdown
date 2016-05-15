@@ -8,5 +8,5 @@ alt: image-alt
 <!-- link:  -->
 project-date: April 2014
 description: Death Wish is currently being revised - check back soon!
-
+disabled: true
 ---
