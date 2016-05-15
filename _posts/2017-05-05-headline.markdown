@@ -6,6 +6,7 @@ title: Headline
 img: headline.png
 link: http://headline.adammenges.com
 project-date: July 2017
+active: true
 description: Bring the top new stories straight to you! - co-created by Lindsey & Adam
 
 ---
