@@ -6,6 +6,5 @@ title: Nails for Nickels
 img: nails_for_nickels.png
 link: http://nailsfornickels.com
 project-date: October 2016
-active: true
 description: My photos and tutorials for fun & nerdy DIY nail art
 ---
