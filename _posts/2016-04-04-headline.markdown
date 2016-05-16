@@ -1,11 +1,11 @@
 ---
 layout: default
-modal-id: 9
-date: 2017-07-31
+modal-id: 1
+date: 2016-04-04
 title: Headline
 img: headline.png
 link: http://headline.adammenges.com
-project-date: July 2017
+project-date: April 2016
 description: Bring the top new stories straight to you! - co-created by Lindsey & Adam
 disabled: false
 ---
