@@ -55,6 +55,11 @@
   text-align: center;
 }
 
+/*#portfolio .container .row .store-links-container img {
+  height: 75px;
+  border-radius: 5px;
+}*/
+
 @media(max-width: 770px) {
   #portfolio .container .row .portfolio-item {
       width: 100%;
