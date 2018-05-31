@@ -1,0 +1,9 @@
+---
+category: writing
+date: 0202-02-02
+description: Finale to "Death Wish" - coming soon
+disabled: true
+img: thanatos.png
+layout: default
+title: Thanatos
+---

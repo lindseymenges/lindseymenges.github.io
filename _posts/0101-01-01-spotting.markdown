@@ -1,0 +1,12 @@
+---
+category: technology
+date: 0101-01-02
+description: Location-based mobile app that lets users ask for menstrual hygiene products
+disabled: false
+img: spotting.png
+layout: default
+link: http://spotting.help
+modal-id: 1
+project-date: May 2018
+title: Spotting!
+---

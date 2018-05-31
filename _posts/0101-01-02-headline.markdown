@@ -1,0 +1,12 @@
+---
+category: technology
+date: 0101-01-01
+description: Bring the top new stories straight to you! Co-created by Lindsey & Adam
+disabled: false
+img: headline.png
+layout: default
+link: http://headline.lindseymenges.com
+modal-id: 2
+project-date: April 2019
+title: Headline
+---

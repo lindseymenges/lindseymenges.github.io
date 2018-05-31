@@ -1,0 +1,9 @@
+---
+category: writing
+date: 0202-02-01
+description: Details to be revealed
+disabled: true
+img: coming_soon.png
+layout: default
+title: Novel In Progress
+---
