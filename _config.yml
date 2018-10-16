@@ -31,7 +31,7 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: San Jose, CA
+  - line: San Francisco, CA
 
 # Credits content
 credits: 'Jekyll theme: <a href="https://github.com/jeromelachaud/freelancer-theme">Freelancer</a>'

@@ -42,6 +42,9 @@
 #portfolio .container .row .portfolio-item {
   width: 50%;
 }
+#portfolio .container .row .portfolio-item.other {
+  width: 33%;
+}
 #portfolio .container .row .portfolio-item .portfolio-link {
   width: 250px;
 }
@@ -72,7 +75,7 @@
 }*/
 
 @media(max-width: 770px) {
-  #portfolio .container .row .portfolio-item {
+  #portfolio .container .row .portfolio-item, #portfolio .container .row .portfolio-item.other {
       width: 100%;
       margin: auto;
     }

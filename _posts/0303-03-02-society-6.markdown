@@ -1,0 +1,11 @@
+---
+category: other
+date: 0303-03-02
+description: Prints & posters available for purchase
+disabled: false
+img: s6_icon.png
+layout: default
+link: https://society6.com/thedragonbabe
+project-date: July 2012
+title: Society6
+---

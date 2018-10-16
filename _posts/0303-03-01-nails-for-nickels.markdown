@@ -1,6 +1,6 @@
 ---
 category: other
-date: 0303-03-02
+date: 0303-03-03
 description: Photos and tutorials for fun & nerdy DIY nail art
 disabled: false
 img: nails_for_nickels.png
